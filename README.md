@@ -4,3 +4,5 @@ Projeto desenvolvido durante a "Semana Spring React 4.0", do Nélio Alves, na pl
 Link do projeto web em produção no Netlify: https://dsvendas-viniciusmatoso.netlify.app/
 
 Backend hospedado no plano free da Heroku. 
+
+Obs: Pode demorar um minuto para carregar os dados e a lista de produtos.
